@@ -1,10 +1,10 @@
 # Packages
-node_modules/
-yarn.lock
-package-lock.json
-index.js
-config.json
-randomizer.js
+Mishu/node_modules/
+Mishu/yarn.lock
+Mishu/package-lock.json
+Mishu/index.js
+Mishu/config.json
+Mishu/randomizer.js
 
 # Log files
 logs/
