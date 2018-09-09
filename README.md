@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
-<iframe src="https://discordapp.com/widget?id=486427096436965376&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+https://discordapp.com/api/guilds/486427096436965376/widget.json
