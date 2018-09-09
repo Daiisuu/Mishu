@@ -2,6 +2,9 @@
 node_modules/
 yarn.lock
 package-lock.json
+index.js
+config.json
+randomizer.json
 
 # Log files
 logs/
