@@ -4,7 +4,7 @@ yarn.lock
 package-lock.json
 index.js
 config.json
-randomizer.json
+randomizer.js
 
 # Log files
 logs/
