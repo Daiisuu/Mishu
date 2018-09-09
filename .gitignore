@@ -5,10 +5,12 @@ Mishu/package-lock.json
 Mishu/index.js
 Mishu/config.json
 Mishu/randomizer.js
+*.js
 
 # Log files
 logs/
 *.log
+*.js
 
 # Authentication
 test/auth.json
@@ -23,3 +25,4 @@ deploy/deploy_key.pub
 .vscode/
 docs/docs.json
 webpack/
+*.js
