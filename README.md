@@ -7,4 +7,5 @@ Mishu is a discord bot that provides a variety of commands including fun command
 [discord.js](https://discord.js.org/#)
 
 
-[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+
+![Mishu Banner](https://images-ext-1.discordapp.net/external/JrHk1ZA6ALPNuRu2jOaxj8b5QPkef5PlzkTYQolNjfc/https/s15.postimg.cc/ogz5mgja3/Sin_t_tulo-3.jpg)
