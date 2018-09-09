@@ -5,3 +5,6 @@ Mishu is a discord bot that provides a variety of commands including fun command
 ### Mishu uses
 
 [discord.js](https://discord.js.org/#)
+
+### Check out the Wiki
+[Get over here!](https://github.com/nates15/Mishu/wiki/Commands)
